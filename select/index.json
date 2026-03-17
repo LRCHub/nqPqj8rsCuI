@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Melody Lineの死亡率",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-17T17:55:02.196993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melody Lineの死亡率",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Melody_Lineの死亡率_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Melody Lineの死亡率 - Melody Line no shibouritsu",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Melody_Lineの死亡率_-_Melody_Line_no_shibouritsu_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Melody Lineの死亡率",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Melody_Lineの死亡率_ONE_OK_ROCK.txt"
+    }
+  ]
+}
